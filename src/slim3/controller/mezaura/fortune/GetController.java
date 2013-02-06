@@ -7,6 +7,9 @@ public class GetController extends Controller {
 
     @Override
     public Navigation run() throws Exception {
+        
+        System.out.println("");
+        
         return null;
     }
 }
